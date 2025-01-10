@@ -1,5 +1,5 @@
-# block-game
-2022 JAVA Term Project
+# Block Game
+### 2022 JAVA Term Project
 
 ![스크린샷 2024-09-03 214927](https://github.com/user-attachments/assets/2a8a5524-58e5-4963-bacd-76ef22e21221)
 
